@@ -1,0 +1,4 @@
+This is git Turorial 
+git and github are different 
+git is local repository
+github is remote repository where we save our local repository 
